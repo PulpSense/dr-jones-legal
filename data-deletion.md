@@ -3,8 +3,6 @@ layout: page
 title: Data Deletion Instructions
 ---
 
-**# DATA DELETION INSTRUCTIONS**
-
 **Last updated February 19, 2026**
 
 
