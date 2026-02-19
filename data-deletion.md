@@ -10,7 +10,7 @@ title: Data Deletion Instructions
 
 The n8n application, operated by Jones Medical Management LLC (doing business as Dr. Jones Team), accesses Facebook Page and Instagram business account data on behalf of authorized page administrators to read and respond to comments on social media posts.
 
-**We do not store personal data of Facebook or Instagram users on our servers.** All data (comment text, commenter names, post context) is processed in real-time to generate comment replies and is not retained after processing.
+**We do not store personal data of Facebook or Instagram users on our servers.** User data such as comment text and commenter names is processed in real-time to generate comment replies and is not retained after processing. We do retain summaries of our own Page and Instagram posts (e.g., topic and content descriptions) to provide context for generating replies. These summaries contain no personal user information.
 
 
 ## How to Remove App Access
@@ -33,7 +33,7 @@ If you are a page administrator who previously authorized the n8n application, y
 4. Click **Remove**
 5. Confirm removal
 
-Once removed, the application will no longer have access to your Page or Instagram account data. Since we do not store user data, no additional deletion is required on our end.
+Once removed, the application will no longer have access to your Page or Instagram account data. Since we do not store any personal user data, no deletion of your information is required on our end.
 
 
 ## Contact Us
